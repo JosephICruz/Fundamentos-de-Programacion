@@ -1,0 +1,4 @@
+yoli,bueno,bueno,18,11111111,yoli,123
+juan,jose,solano,19,55555555,juan,jose
+luis,saldana,amacifuen,18,33333333,luis,saldana
+joseph,cruz,rodrigurez,23,11111111,joseph,gallito06

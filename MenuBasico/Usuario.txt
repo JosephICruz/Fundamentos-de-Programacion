@@ -1,0 +1,5 @@
+jesus,jose,maria,18,12345678,jose,123
+elias,biscarra,castillo,18,87654321,elias,123
+juan,torres,solano,19,76936050,juan,jose
+luis,saldana,amacifuen,18,0,luis,saldana
+joseph,cruz,rodriguez,33,12345678,joseph,gallito06
