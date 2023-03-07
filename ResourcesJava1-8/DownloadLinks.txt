@@ -1,0 +1,23 @@
+java version "1.8.0_251"
+JDK version 1.8.0.251 download link:
+
+https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html
+
+Windows x64	
+166.79 MB	
+jdk-8u271-windows-x64.exe
+
+
+==
+
+
+Eclipse version download link:
+
+https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-ide-enterprise-java-developers
+
+Windows x86_64
+
+Eclipse IDE for Enterprise Java Developers (includes Incubating components)
+
+Version: 2020-06 (4.16.0)
+Build id: 20200615-1200
